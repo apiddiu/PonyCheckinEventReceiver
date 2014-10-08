@@ -1,0 +1,5 @@
+c:\users\aldo\documents\visual studio 2010\Projects\EventReceiverProjectTest\EventReceiverProjectTest\bin\Debug\EventReceiverProjectTest.dll
+c:\users\aldo\documents\visual studio 2010\Projects\EventReceiverProjectTest\EventReceiverProjectTest\bin\Debug\EventReceiverProjectTest.pdb
+c:\users\aldo\documents\visual studio 2010\Projects\EventReceiverProjectTest\EventReceiverProjectTest\obj\Debug\EventReceiverProjectTest.csprojResolveAssemblyReference.cache
+c:\users\aldo\documents\visual studio 2010\Projects\EventReceiverProjectTest\EventReceiverProjectTest\obj\Debug\EventReceiverProjectTest.dll
+c:\users\aldo\documents\visual studio 2010\Projects\EventReceiverProjectTest\EventReceiverProjectTest\obj\Debug\EventReceiverProjectTest.pdb
